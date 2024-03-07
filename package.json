@@ -1,0 +1,23 @@
+{
+  "name": "refactored-robotetybs",
+  "version": "1.0.0",
+  "description": "Basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azbillpimk/refactored-robotetybs.git"
+  },
+  "dependencies": {
+    "laughingqw-happiness": "1.0.0",
+    "stunning-couscouswq": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azbillpimk/refactored-robotetybs/issues"
+  },
+  "homepage": "https://github.com/azbillpimk/refactored-robotetybs#readme"
+}
